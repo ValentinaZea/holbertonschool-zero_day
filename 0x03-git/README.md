@@ -1,0 +1,1 @@
+This project is intended to show the basics of Git 
