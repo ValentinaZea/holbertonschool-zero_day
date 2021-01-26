@@ -1,0 +1,1 @@
+This project shows the basic commands to handle files with emacs editor
